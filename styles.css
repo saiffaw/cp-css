@@ -1,0 +1,28 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: rgba(0, 0, 255, 0.644);
+}
+nav {
+  background-color: black;
+}
+li {
+  display: inline-block;
+  margin: 70px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+video {
+  width: 600px;
+  height: 500px;
+  padding-left: 200px;
+}
+input {
+  margin: 20px;
+}
+h1 {
+  font-size: 4rem;
+  padding-left: 50px;
+}
